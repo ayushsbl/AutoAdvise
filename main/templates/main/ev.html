@@ -1,0 +1,97 @@
+<!-- Content_based_Result -->
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Untree.co">
+  <link rel="shortcut icon" href="images/favicon.png">
+
+
+		<!-- Bootstrap CSS -->
+		<link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+		<link href="'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+		<link href="{% static 'css/tiny-slider.css' %}" rel="stylesheet">
+		<link href="{% static 'css/style.css' %}" rel="stylesheet">
+		<title>AutoAdvise | car</title>
+	</head>
+
+	<body>
+
+		<!-- Start Header/Navigation -->
+		<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Furni navigation bar">
+
+			<div class="container">
+				<a class="navbar-brand" href="{% url 'home' %}">AutoAdvise<span>.</span></a>
+
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarsFurni">
+					<ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
+						<li><a class="nav-link" href="{% url 'home' %}">Home</a></li>
+						<!-- <li><a class="nav-link" href="#">Collab</a></li> -->
+						<li>
+							<a class="nav-link" href="{% url 'content' 0 %}">Search</a>
+						</li>
+						<li><a class="nav-link" href="{% url 'hybrid1' %}">AI</a></li>
+						<li><a class="nav-link" href="{% url 'support' %}">Support</a></li>
+					</ul>
+
+				</div>
+			</div>
+				
+		</nav>
+		<!-- End Header/Navigation -->
+
+		<div>
+            <h1 style="margin: 100px auto 20px 140px; color: black;">EV Cars</h1>
+        </div>
+
+		<div class="blog-section">
+			<div class="container">
+			
+				
+				{% if d %}
+				{% for i in d %}
+				<div style="border-style: solid; height: 350px; border-radius: 20px;">
+				<div class="item">
+					<p>
+						<a href="{% url 'profile_view' i.CAR_ID %}"><img src="{{ i.img_link }}" alt="popular car" class="img2" align="left" border="1" width="450" height="300" style="margin-left: 100px; margin-right: 100px; border-radius: 20px;"></a>
+						<p><br></p>
+						<div class="content-align">
+							<h1 style="margin-bottom: 20px;  color: #436850;">{{ i.Brand }} {{ i.MODEL }}</h1>
+							<h2>{{ i.PRICE }} lac*</h2>
+							<h3>{{ i.MILEAGE }} km</h3>
+							<h3>{{ i.CC }}cc </h3>
+							<h3>{{ i.SEAT }} Seater</h3>
+						</div>
+						
+					</p>
+				</div>
+			</div>
+			<br><br>
+				{% endfor %}
+			{% endif %}
+			
+			</div>
+		</div>
+		<!-- End Blog Section -->	
+
+
+		<!-- Start Footer Section -->
+		<footer class="footer-section">
+			<div class="container relative">
+				
+				<div class="row g-5 mb-5">
+					<div class="">
+						<div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">AutoAdvise<span>.</span></a></div>
+						<td class="mb-4">To address the presented challenge, our objective is to develop a sophisticated recommendation model. By leveraging advanced machine learning techniques, we aim to provide tailored suggestions, enhancing user experience and engagement. Our focus is on creating a robust and efficient solution to meet the unique requirements of the problem at hand.</td>			</div>
+			</div>
+		</footer>
+		<!-- End Footer Section -->	
+	</body>
+
+</html>

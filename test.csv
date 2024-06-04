@@ -1,0 +1,411 @@
+CAR_ID,Brand,MODEL,VARIANT,FUEL,CC,TRANSMISSION,MILEAGE,PRICE,TYPE,SEAT,WHEEL_DRIVE,BOOT_SPACE,FUEL_TANK,NCAP_RATING,Airbag,img_link
+MarutiSuzukiFronx,Maruti Suzuki,Fronx,base,petrol,1197,Manual,21.79,8.6,SUV,5,FWD,308,37,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80
+MarutiSuzukiFronx,Maruti Suzuki,Fronx,base,petrol,1197,Automatic,22.89,10.14,SUV,5,FWD,308,37,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=81
+MarutiSuzukiFronx,Maruti Suzuki,Fronx,base,CNG,1197,manual,28.51,9.69,SUV,5,FWD,308,37,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=82
+MarutiSuzukiFronx,Maruti Suzuki,Fronx,top,petrol,998,manual,20.01,13.87,SUV,5,FWD,308,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=83
+MarutiSuzukiFronx,Maruti Suzuki,Fronx,top,petrol,998,Automatic,20.01,15.1,SUV,5,FWD,308,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=84
+MarutiSuzukiGrandVitara,Maruti Suzuki,Grand Vitara,base,petrol,1462,manual,21.11,12.61,SUV,5,FWD,373,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MarutiSuzukiGrandVitara,Maruti Suzuki,Grand Vitara,base,petrol,1462,Automatic,20.8,15.87,SUV,5,FWD,373,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MarutiSuzukiGrandVitara,Maruti Suzuki,Grand Vitara,base,CNG,1462,Manual,26.6,13.99,SUV,5,FWD,373,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MarutiSuzukiGrandVitara,Maruti Suzuki,Grand Vitara,top,petrol,1462,Manual,19.38,19.95,SUV,5,FWD,373,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MarutiSuzukiGrandVitara,Maruti Suzuki,Grand Vitara,top,petrol,1462,Automatic,20.58,19.84,SUV,5,FWD,373,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MarutiSuzukiBrezza,Maruti Suzuki,Brezza,base,petrol,1462,Manual,17.38,9.54,SUV,5,FWD,328,48,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+MarutiSuzukiBrezza,Maruti Suzuki,Brezza,base,petrol,1462,Automatic,17.38,12.95,SUV,5,FWD,328,48,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+MarutiSuzukiBrezza,Maruti Suzuki,Brezza,base,CNG,1462,Manual,25.51,10.6,SUV,5,FWD,328,48,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+MarutiSuzukiBrezza,Maruti Suzuki,Brezza,top,petrol,1462,Manual,19.89,14.83,SUV,5,FWD,328,48,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+MarutiSuzukiBrezza,Maruti Suzuki,Brezza,top,petrol,1462,Automatic,19.89,16.44,SUV,5,FWD,328,48,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+MarutiSuzukiErtiga,Maruti Suzuki,Ertiga,base,petrol,1462,Manual,20.51,9.93,MPV,7,FWD,209,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/115777/ertiga-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiErtiga,Maruti Suzuki,Ertiga,base,petrol,1462,Automatic,20.3,13.01,MPV,7,FWD,209,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/115777/ertiga-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiErtiga,Maruti Suzuki,Ertiga,base,CNG,1462,Manual,26.11,11.51,MPV,7,FWD,209,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/115777/ertiga-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiErtiga,Maruti Suzuki,Ertiga,top,petrol,1462,Manual,20.51,13.56,MPV,7,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/115777/ertiga-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiErtiga,Maruti Suzuki,Ertiga,top,petrol,1462,Automatic,20.3,15.17,MPV,7,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/115777/ertiga-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiSwift,Maruti Suzuki,Swift,base,petrol,1197,Manual,22.38,6.9,HatchBack,5,FWD,268,37,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80
+MarutiSuzukiSwift,Maruti Suzuki,Swift,base,petrol,1197,Automatic,22.56,8.58,HatchBack,5,FWD,268,37,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80
+MarutiSuzukiSwift,Maruti Suzuki,Swift,base,CNG,1197,Manual,30.9,9.02,HatchBack,5,FWD,268,37,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80
+MarutiSuzukiSwift,Maruti Suzuki,Swift,top,petrol,1197,Manual,22.38,9.76,HatchBack,5,FWD,268,37,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80
+MarutiSuzukiSwift,Maruti Suzuki,Swift,top,petrol,1197,Automatic,22.56,10.32,HatchBack,5,FWD,268,37,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/swift-exterior-right-front-three-quarter-64.jpeg?isig=0&q=80
+MarutiSuzukiAltoK10,Maruti Suzuki,Alto K10,base,petrol,998,Manual,24.39,4.59,HatchBack,5,FWD,214,27,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/127563/alto-k10-exterior-right-front-three-quarter-58.jpeg?isig=0&q=80
+MarutiSuzukiAltoK10,Maruti Suzuki,Alto K10,base,petrol,998,Automatic,24.9,6.35,HatchBack,5,FWD,214,27,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/127563/alto-k10-exterior-right-front-three-quarter-58.jpeg?isig=0&q=80
+MarutiSuzukiAltoK10,Maruti Suzuki,Alto K10,base,CNG,998,Manual,33.85,6.55,HatchBack,5,FWD,214,27,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/127563/alto-k10-exterior-right-front-three-quarter-58.jpeg?isig=0&q=80
+MarutiSuzukiAltoK10,Maruti Suzuki,Alto K10,top,petrol,998,Manual,24.39,6.12,HatchBack,5,FWD,214,27,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/127563/alto-k10-exterior-right-front-three-quarter-58.jpeg?isig=0&q=80
+MarutiSuzukiAltoK10,Maruti Suzuki,Alto K10,top,petrol,998,Automatic,24.9,6.35,HatchBack,5,FWD,214,27,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/127563/alto-k10-exterior-right-front-three-quarter-58.jpeg?isig=0&q=80
+MarutiSuzukiBaleno,Maruti Suzuki,Baleno,base,petrol,1197,Manual,22.35,7.64,HatchBack,5,FWD,318,37,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-67.jpeg?isig=0&q=80
+MarutiSuzukiBaleno,Maruti Suzuki,Baleno,base,petrol,1197,Automatic,22.9,9.14,HatchBack,5,FWD,318,37,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-67.jpeg?isig=0&q=80
+MarutiSuzukiBaleno,Maruti Suzuki,Baleno,base,CNG,1197,Manual,30.61,9.61,HatchBack,5,FWD,318,37,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-67.jpeg?isig=0&q=80
+MarutiSuzukiBaleno,Maruti Suzuki,Baleno,top,petrol,1197,Manual,22.35,10.71,HatchBack,5,FWD,318,37,0,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-67.jpeg?isig=0&q=80
+MarutiSuzukiBaleno,Maruti Suzuki,Baleno,top,petrol,1197,Automatic,22.9,11.26,HatchBack,5,FWD,318,37,0,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-67.jpeg?isig=0&q=80
+MarutiSuzukiWagonR,Maruti Suzuki,Wagon R,base,petrol,998,Manual,24.35,6.34,HatchBack,5,FWD,341,32,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiWagonR,Maruti Suzuki,Wagon R,base,petrol,998,Automatic,25.19,7.39,HatchBack,5,FWD,341,32,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiWagonR,Maruti Suzuki,Wagon R,base,CNG,998,Manual,34.05,7.34,HatchBack,5,FWD,341,32,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiWagonR,Maruti Suzuki,Wagon R,top,petrol,1197,Manual,23.56,7.88,HatchBack,5,FWD,341,32,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiWagonR,Maruti Suzuki,Wagon R,top,petrol,1197,Automatic,24.43,8.44,HatchBack,5,FWD,341,32,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiDezire,Maruti Suzuki,Dezire,base,petrol,1197,Manual,22.41,7.58,Sedan,5,FWD,378,37,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/dzire-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiDezire,Maruti Suzuki,Dezire,base,petrol,1197,Automatic,22.61,9.13,Sedan,5,FWD,378,37,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/dzire-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiDezire,Maruti Suzuki,Dezire,base,CNG,1197,Manual,31.12,9.66,Sedan,5,FWD,378,37,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/dzire-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiDezire,Maruti Suzuki,Dezire,top,petrol,1197,Manual,22.41,10.16,Sedan,5,FWD,378,37,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/dzire-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiDezire,Maruti Suzuki,Dezire,top,petrol,1197,Automatic,22.61,10.71,Sedan,5,FWD,378,37,2,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45691/dzire-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiJimny,Maruti Suzuki,Jimny,base,petrol,1462,Manual,16.94,14.84,SUV,4,4WD,208,40,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/45299/jimny-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+MarutiSuzukiJimny,Maruti Suzuki,Jimny,base,petrol,1462,Automatic,16.39,16.09,SUV,4,4WD,208,40,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/45299/jimny-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+MarutiSuzukiJimny,Maruti Suzuki,Jimny,top,petrol,1462,Manual,16.94,16.1,SUV,4,4WD,208,40,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/45299/jimny-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+MarutiSuzukiJimny,Maruti Suzuki,Jimny,top,petrol,1462,Automatic,16.39,17.37,SUV,4,4WD,208,40,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/45299/jimny-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+MarutiSuzukiCiaz,Maruti Suzuki,Ciaz,base,petrol,1462,Manual,20.65,10.72,Sedan,5,FWD,510,43,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/48542/ciaz-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiCiaz,Maruti Suzuki,Ciaz,base,petrol,1462,Automatic,20.02,12.95,Sedan,5,FWD,510,43,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/48542/ciaz-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiCiaz,Maruti Suzuki,Ciaz,top,petrol,1462,Manual,20.65,13.13,Sedan,5,FWD,510,43,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/48542/ciaz-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiCiaz,Maruti Suzuki,Ciaz,top,petrol,1462,Automatic,20.02,14.5,Sedan,5,FWD,510,43,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/48542/ciaz-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiSPresso,Maruti Suzuki,S-Presso,base,petrol,998,Manual,24.12,4.77,HatchBack,5,FWD,240,27,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiSPresso,Maruti Suzuki,S-Presso,base,petrol,998,Automatic,24.76,6.34,HatchBack,5,FWD,240,27,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiSPresso,Maruti Suzuki,S-Presso,base,CNG,998,Manual,32.73,6.56,HatchBack,5,FWD,240,27,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiSPresso,Maruti Suzuki,S-Presso,top,petrol,998,Manual,24.12,6.12,HatchBack,5,FWD,240,27,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiSPresso,Maruti Suzuki,S-Presso,top,petrol,998,Automatic,24.76,6.84,HatchBack,5,FWD,240,27,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/126463/s-presso-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiXL6,Maruti Suzuki,XL6,base,petrol,1462,Manual,20.97,13.59,MPV,6,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/115601/2022-xl6-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiXL6,Maruti Suzuki,XL6,base,petrol,1462,Automatic,20.27,15.2,MPV,6,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/115601/2022-xl6-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiXL6,Maruti Suzuki,XL6,base,CNG,1462,Manual,26.32,1468,MPV,6,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/115601/2022-xl6-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiXL6,Maruti Suzuki,XL6,top,petrol,1462,Manual,20.97,15.61,MPV,6,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/115601/2022-xl6-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiXL6,Maruti Suzuki,XL6,top,petrol,1462,Automatic,20.27,17.22,MPV,6,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/115601/2022-xl6-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MarutiSuzukiCelerio,Maruti Suzuki,Celerio,base,petrol,998,Manual,25.24,5.97,HatchBack,5,FWD,313,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/53695/celerio-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiCelerio,Maruti Suzuki,Celerio,base,petrol,998,Automatic,26.68,7.2,HatchBack,5,FWD,313,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/53695/celerio-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiCelerio,Maruti Suzuki,Celerio,base,CNG,998,Manual,34.43,7.58,HatchBack,5,FWD,313,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/53695/celerio-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiCelerio,Maruti Suzuki,Celerio,top,petrol,998,Manual,25.24,6.96,HatchBack,5,FWD,313,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/53695/celerio-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiCelerio,Maruti Suzuki,Celerio,top,petrol,998,Automatic,26.68,8.04,HatchBack,5,FWD,313,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/53695/celerio-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MarutiSuzukiEeco,Maruti Suzuki,Eeco,base,petrol,1197,Manual,20,5.98,Microvan,5,RWD,275,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135523/eeco-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MarutiSuzukiEeco,Maruti Suzuki,Eeco,top,petrol,1197,Manual,20,6.37,Microvan,5,RWD,275,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135523/eeco-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MarutiSuzukiEeco,Maruti Suzuki,Eeco,top,CNG,1197,Manual,26.78,7.47,Microvan,5,RWD,275,32,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135523/eeco-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MarutiSuzukiIgnis,Maruti Suzuki,Ignis,base,petrol,1197,Manual,20.89,6.44,HatchBack,5,FWD,260,32,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/142921/ignis-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MarutiSuzukiIgnis,Maruti Suzuki,Ignis,base,petrol,1197,Automatic,20.89,7.87,HatchBack,5,FWD,260,32,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/142921/ignis-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MarutiSuzukiIgnis,Maruti Suzuki,Ignis,top,petrol,1197,Manual,20.89,8.7,HatchBack,5,FWD,260,32,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/142921/ignis-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MarutiSuzukiIgnis,Maruti Suzuki,Ignis,top,petrol,1197,Automatic,20.89,9.41,HatchBack,5,FWD,260,32,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/142921/ignis-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MarutiSuzukiInvicto,Maruti Suzuki,Invicto,base,hybrid,1987,Automatic,23.24,29.56,MPV,7,FWD,239,52,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/147201/invicto-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80
+MarutiSuzukiInvicto,Maruti Suzuki,Invicto,base,hybrid,1987,Automatic,23.24,29.62,MPV,8,FWD,239,52,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/147201/invicto-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80
+MarutiSuzukiInvicto,Maruti Suzuki,Invicto,top,hybrid,1987,Automatic,23.24,33.82,MPV,7,FWD,239,52,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/147201/invicto-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80
+TataNexon,Tata,Nexon,base,petrol,1199,Manual,17.44,9.3,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80
+TataNexon,Tata,Nexon,base,petrol,1199,Automatic,17.18,13.8,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=81
+TataNexon,Tata,Nexon,top,petrol,1199,Manual,17.44,15.88,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=82
+TataNexon,Tata,Nexon,top,petrol,1199,Automatic,17.18,15.3,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=83
+TataNexon,Tata,Nexon,base,diesel,1497,Manual,23.23,13.29,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=84
+TataNexon,Tata,Nexon,base,diesel,1497,Automatic,24.08,15.63,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=85
+TataNexon,Tata,Nexon,top,diesel,1497,Manual,23.23,17.86,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=86
+TataNexon,Tata,Nexon,top,diesel,1497,Automatic,24.08,18.6,SUV,5,FWD,382,44,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=87
+TataNexon,Tata,Nexon,base,EV,30,Automatic,325,18.6,SUV,5,FWD,350,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=88
+TataNexon,Tata,Nexon,top,EV,40.5,Automatic,465,18.6,SUV,5,FWD,350,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=89
+TataPunch,Tata,Punch,base,petrol,1199,Manual,20.09,7.03,SUV,5,FWD,210,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80
+TataPunch,Tata,Punch,base,petrol,1199,Automatic,18.8,8.66,SUV,5,FWD,210,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80
+TataPunch,Tata,Punch,base,CNG,1199,Manual,26.99,8.18,SUV,5,FWD,210,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80
+TataPunch,Tata,Punch,top,petrol,1199,Manual,20.09,10.9,SUV,5,FWD,210,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80
+TataPunch,Tata,Punch,top,petrol,1199,Automatic,18.8,11.98,SUV,5,FWD,210,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80
+TataPunch,Tata,Punch,base,EV,25,Automatic,315,11.76,SUV,5,FWD,366,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80
+TataPunch,Tata,Punch,top,EV,35,Automatic,421,16.46,SUV,5,FWD,366,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/39015/punch-exterior-right-front-three-quarter-54.jpeg?isig=0&q=80
+TataHarrier,Tata,Harrier,base,diesel,1956,Manual,16.8,18.67,SUV,5,FWD,445,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+TataHarrier,Tata,Harrier,base,diesel,1956,Automatic,14.6,23.95,SUV,5,FWD,445,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+TataHarrier,Tata,Harrier,top,diesel,1956,Manual,16.8,29.88,SUV,5,FWD,445,50,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+TataHarrier,Tata,Harrier,top,diesel,1956,Automatic,15.6,31.52,SUV,5,FWD,445,50,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,base,petrol,1199,Manual,19.1,6.33,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,base,petrol,1199,Automatic,19,7.94,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,base,CNG,1199,Manual,26.49,7.49,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,base,CNG,1199,Automatic,28.06,8.91,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,top,petrol,1199,Manual,19.1,8.44,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,top,petrol,1199,Automatic,19,9.05,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,base,EV,19.2,Automatic,250,8.41,HatchBack,5,FWD,240,0,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataTiago,Tata,Tiago,top,EV,24,Automatic,315,12.71,HatchBack,5,FWD,240,0,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/39345/tiago-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80
+TataAltroz,Tata,Altroz,base,petrol,1199,Manual,19.33,7.63,HatchBack,5,FWD,345,37,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80
+TataAltroz,Tata,Altroz,top,petrol,1199,Manual,19.33,11.81,HatchBack,5,FWD,345,37,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80
+TataAltroz,Tata,Altroz,base,petrol,1199,Automatic,19.33,9.83,HatchBack,5,FWD,345,37,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80
+TataAltroz,Tata,Altroz,top,petrol,1199,Automatic,19.33,12.44,HatchBack,5,FWD,345,37,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80
+TataAltroz,Tata,Altroz,base,CNG,1199,Manual,26.2,8.69,HatchBack,5,FWD,345,37,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80
+TataAltroz,Tata,Altroz,base,diesel,1497,Manual,23.64,10.13,HatchBack,5,FWD,345,37,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80
+TataAltroz,Tata,Altroz,top,diesel,1497,Manual,23.64,12.83,HatchBack,5,FWD,345,37,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80
+TataSafari,Tata,Safari,base,diesel,1956,Manual,14.5,19.36,SUV,7,FWD,420,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0&q=80
+TataSafari,Tata,Safari,base,diesel,1956,Automatic,14.5,25.4,SUV,7,FWD,420,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0&q=80
+TataSafari,Tata,Safari,top,diesel,1956,Manual,14.5,31.78,SUV,6,FWD,420,50,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0&q=80
+TataSafari,Tata,Safari,top,diesel,1956,Automatic,14.5,33.47,SUV,6,FWD,420,50,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0&q=80
+TataTiagoNRG,Tata,Tiago NRG,base,petrol,1199,Manual,20.09,7.68,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/99113/tiago-nrg-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+TataTiagoNRG,Tata,Tiago NRG,base,CNG,1199,Manual,26.4,8.74,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/99113/tiago-nrg-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+TataTiagoNRG,Tata,Tiago NRG,base,CNG,1199,Automatic,26.4,10.06,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/99113/tiago-nrg-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+TataTiagoNRG,Tata,Tiago NRG,top,petrol,1199,Manual,20.09,8.35,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/99113/tiago-nrg-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+TataTiagoNRG,Tata,Tiago NRG,top,petrol,1199,Automatic,20.09,8.97,HatchBack,5,FWD,242,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/99113/tiago-nrg-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+TataTigor,Tata,Tigor,base,petrol,1199,Manual,19.2,7.24,Sedan,5,FWD,419,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+TataTigor,Tata,Tigor,top,petrol,1199,Manual,19.2,9.14,Sedan,5,FWD,419,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=81
+TataTigor,Tata,Tigor,base,petrol,1199,Automatic,19.6,8.47,Sedan,5,FWD,419,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=82
+TataTigor,Tata,Tigor,top,petrol,1199,Automatic,19.6,9.83,Sedan,5,FWD,419,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=83
+TataTigor,Tata,Tigor,base,CNG,1199,Manual,26.4,8.86,Sedan,5,FWD,419,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=84
+TataTigor,Tata,Tigor,base,CNG,1199,Automatic,28.06,10.11,Sedan,5,FWD,419,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=85
+TataTigor,Tata,Tigor,base,EV,26,Automatic,315,13.35,Sedan,5,FWD,316,0,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=86
+TataTigor,Tata,Tigor,top,EV,26,Automatic,315,14.67,Sedan,5,FWD,316,0,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/41160/tigor-exterior-right-front-three-quarter-3.jpeg?isig=0&q=87
+HyundaiCreta,Hyundai,Creta,base,petrol,1497,Manual,17.4,12.84,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiCreta,Hyundai,Creta,top,petrol,1497,Manual,17.4,20.2,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiCreta,Hyundai,Creta,base,petrol,1497,Automatic,18.4,18.41,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiCreta,Hyundai,Creta,top,petrol,1497,Automatic,18.4,24.17,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiCreta,Hyundai,Creta,base,diesel,1493,Manual,21.8,14.75,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiCreta,Hyundai,Creta,top,diesel,1493,Manual,21.8,22.3,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiCreta,Hyundai,Creta,base,diesel,1493,Automatic,19.1,20.48,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiCreta,Hyundai,Creta,top,diesel,1493,Automatic,19.1,24.58,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-4.png?isig=0&q=80
+HyundaiExter,Hyundai,Exter,base,petrol,1197,Manual,19.4,7.05,SUV,5,FWD,391,37,1,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80
+HyundaiExter,Hyundai,Exter,top,petrol,1197,Manual,19.4,110.7,SUV,5,FWD,391,37,1,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80
+HyundaiExter,Hyundai,Exter,base,CNG,1197,Manual,27.1,9.65,SUV,5,FWD,391,37,1,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80
+HyundaiExter,Hyundai,Exter,base,petrol,1197,Automatic,19.2,9.42,SUV,5,FWD,391,37,1,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80
+HyundaiExter,Hyundai,Exter,top,petrol,1197,Automatic,19.2,12.02,SUV,5,FWD,391,37,1,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80
+HyundaiVenue,Hyundai,Venue,base,petrol,1197,Manual,17.5,9.07,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80
+HyundaiVenue,Hyundai,Venue,top,petrol,1197,Manual,17.5,14.91,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80
+HyundaiVenue,Hyundai,Venue,base,petrol,998,Automatic,18.15,13.36,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80
+HyundaiVenue,Hyundai,Venue,top,petrol,998,Automatic,18.15,15.61,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80
+HyundaiVenue,Hyundai,Venue,base,diesel,1493,Manual,23.4,12.72,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80
+HyundaiVenue,Hyundai,Venue,top,diesel,1493,Manual,23.4,15.9,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141113/venue-exterior-right-front-three-quarter-16.jpeg?isig=0&q=80
+HyundaiVerna,Hyundai,Verna,base,petrol,1497,Manual,18.6,12.85,Sedan,5,FWD,528,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/121943/verna-exterior-right-front-three-quarter-101.jpeg?isig=0&q=80
+HyundaiVerna,Hyundai,Verna,top,petrol,1482,Manual,20,18.64,Sedan,5,FWD,528,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/121943/verna-exterior-right-front-three-quarter-101.jpeg?isig=0&q=80
+HyundaiVerna,Hyundai,Verna,base,petrol,1497,Automatic,19.6,16.59,Sedan,5,FWD,528,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/121943/verna-exterior-right-front-three-quarter-101.jpeg?isig=0&q=80
+HyundaiVerna,Hyundai,Verna,top,petrol,1482,Automatic,20.6,20.24,Sedan,5,FWD,528,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/121943/verna-exterior-right-front-three-quarter-101.jpeg?isig=0&q=80
+Hyundaii20,Hyundai,i20,base,petrol,1197,Manual,19,8.07,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+Hyundaii20,Hyundai,i20,top,petrol,1197,Manual,19,11.9,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+Hyundaii20,Hyundai,i20,base,petrol,1197,Automatic,20,10.71,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+Hyundaii20,Hyundai,i20,top,petrol,1197,Automatic,20,13.08,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+Hyundaii20NLine,Hyundai,i20 N Line,base,petrol,998,Manual,20,11.33,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/158139/i20-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+Hyundaii20NLine,Hyundai,i20 N Line,top,petrol,998,Manual,20,13.25,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/158139/i20-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+Hyundaii20NLine,Hyundai,i20 N Line,base,petrol,998,Automatic,20,12.94,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/158139/i20-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+Hyundaii20NLine,Hyundai,i20 N Line,top,petrol,998,Automatic,20,14.51,HatchBack,5,FWD,311,37,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/158139/i20-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HyundaiVenueNLine,Hyundai,Venue N Line,base,petrol,998,Manual,18,14.01,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142677/venue-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HyundaiVenueNLine,Hyundai,Venue N Line,top,petrol,998,Manual,18,15.19,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142677/venue-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HyundaiVenueNLine,Hyundai,Venue N Line,base,petrol,998,Automatic,18,14.92,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142677/venue-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HyundaiVenueNLine,Hyundai,Venue N Line,top,petrol,998,Automatic,18,16.09,SUV,5,FWD,350,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142677/venue-n-line-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HyundaiGrandi10Nios,Hyundai,Grand i10 Nios,base,petrol,1197,Manual,20.36,6.82,HatchBack,5,FWD,260,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/136183/grand-i10-nios-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80
+HyundaiGrandi10Nios,Hyundai,Grand i10 Nios,top,petrol,1197,Manual,20.36,9.13,HatchBack,5,FWD,260,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/136183/grand-i10-nios-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80
+HyundaiGrandi10Nios,Hyundai,Grand i10 Nios,base,petrol,1197,Automatic,19.2,8.5,HatchBack,5,FWD,260,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/136183/grand-i10-nios-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80
+HyundaiGrandi10Nios,Hyundai,Grand i10 Nios,top,petrol,1197,Automatic,19.2,9.79,HatchBack,5,FWD,260,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/136183/grand-i10-nios-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80
+HyundaiGrandi10Nios,Hyundai,Grand i10 Nios,base,CNG,1197,Manual,27,8.78,HatchBack,5,FWD,260,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/136183/grand-i10-nios-exterior-right-front-three-quarter-15.jpeg?isig=0&q=80
+HyundaiAura,Hyundai,Aura,base,petrol,1197,Manual,20.36,7.45,Sedan,5,FWD,402,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/aura-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+HyundaiAura,Hyundai,Aura,top,petrol,1197,Manual,20.36,9.9,Sedan,5,FWD,402,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/aura-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+HyundaiAura,Hyundai,Aura,top,petrol,1197,Automatic,19.2,10.16,Sedan,5,FWD,402,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/aura-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+HyundaiAura,Hyundai,Aura,base,CNG,1197,Manual,27,9.51,Sedan,5,FWD,402,37,2,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139133/aura-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,base,petrol,1497,Manual,17.4,19.5,SUV,7,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,top,petrol,1497,Manual,17.4,22.09,SUV,7,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,base,petrol,1497,Automatic,18.4,23.18,SUV,6,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,top,petrol,1497,Automatic,18.4,24.32,SUV,7,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,base,diesel,1493,Manual,21.8,21.01,SUV,7,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,top,diesel,1493,Manual,21.8,24.79,SUV,6,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,base,diesel,1493,Automatic,19.1,22.72,SUV,7,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiAlcazar,Hyundai,Alcazar,top,diesel,1493,Automatic,19.1,25.94,SUV,7,FWD,180,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142523/alcazar-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80
+HyundaiTucson,Hyundai,Tucson,base,petrol,1999,Automatic,12.95,34.91,SUV,5,FWD,540,54,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+HyundaiTucson,Hyundai,Tucson,top,petrol,1999,Automatic,12.95,38.19,SUV,5,FWD,540,54,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+HyundaiTucson,Hyundai,Tucson,base,diesel,1997,Automatic,15.38,38.68,SUV,5,FWD,540,54,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+HyundaiTucson,Hyundai,Tucson,top,diesel,1997,Automatic,15.38,43.8,SUV,5,FWD,540,54,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+Hyundaiioniq,Hyundai,ioniq,top,EV,72.6,Automatic,631,48.78,SUV,5,RWD,531,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/110289/ioniq-5-exterior-right-front-three-quarter-95.jpeg?isig=0&q=80
+HyundaiKonaElectric,Hyundai,Kona Electric,top,EV,39.2,Automatic,452,25.39,HatchBack,5,FWD,332,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/29580/kona-electric-exterior-right-front-three-quarter-162254.jpeg?isig=0&wm=1&q=80
+MahidraScorpioN,Mahidra,Scorpio N,base,petrol,1997,Manual,14.67,16.02,SUV,7,RWD,460,57,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpioN,Mahidra,Scorpio N,top,petrol,1997,Manual,14.67,24.94,SUV,7,RWD,460,57,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpioN,Mahidra,Scorpio N,base,petrol,1997,Automatic,14.67,19.73,SUV,7,RWD,460,57,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpioN,Mahidra,Scorpio N,top,petrol,1997,Automatic,14.67,26.55,SUV,7,RWD,460,57,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpioN,Mahidra,Scorpio N,base,diesel,2184,Manual,14.75,16.76,SUV,7,RWD,460,57,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpioN,Mahidra,Scorpio N,top,diesel,2184,Manual,14.75,28.2,SUV,7,RWD,460,57,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpioN,Mahidra,Scorpio N,base,diesel,2184,Automatic,14.75,20.65,SUV,7,RWD,460,57,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpioN,Mahidra,Scorpio N,top,diesel,2184,Automatic,14.75,30.09,SUV,7,RWD,460,57,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MahidraScorpio,Mahidra,Scorpio,base,diesel,2184,Manual,14.75,16.28,SUV,7,RWD,460,60,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80
+MahidraScorpio,Mahidra,Scorpio,base,diesel,2184,Manual,14.75,16.57,SUV,9,RWD,460,60,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80
+MahidraScorpio,Mahidra,Scorpio,top,diesel,2184,Manual,14.75,20.71,SUV,7,RWD,460,60,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,base,petrol,1997,Manual,15.2,16.82,SUV,4,RWD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,top,petrol,1997,Manual,15.2,18.13,SUV,4,4WD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,base,petrol,1997,Automatic,15.2,16.48,SUV,4,RWD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,top,petrol,1997,Automatic,15.2,19.95,SUV,4,4WD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,base,diesel,1497,Manual,16.3,13.36,SUV,4,RWD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,top,diesel,2184,Manual,16.3,19.11,SUV,4,4WD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,base,diesel,2184,Automatic,16.3,20.48,SUV,4,RWD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraThar,Mahidra,Thar,top,diesel,2184,Automatic,16.3,21,SUV,4,4WD,600,57,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,base,petrol,1997,Manual,15,16.47,SUV,5,FWD,240,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,top,petrol,1997,Manual,15,25.91,SUV,6,AWD,240,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,base,petrol,1997,Automatic,13,21.33,SUV,7,FWD,240,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,top,petrol,1997,Automatic,13,30.66,SUV,6,AWD,240,60,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,base,diesel,2184,Manual,17,17.45,SUV,5,FWD,240,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,top,diesel,2184,Manual,17,29.6,SUV,6,AWD,240,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,base,diesel,2184,Automatic,16.57,22.39,SUV,7,FWD,240,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV700,Mahidra,XUV700,top,diesel,2184,Automatic,16.57,33.04,SUV,6,AWD,240,60,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,base,petrol,1197,Manual,15.92,9.13,SUV,5,FWD,257,42,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,top,petrol,1197,Manual,15.92,14.85,SUV,5,FWD,257,42,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,base,petrol,1197,Automatic,15.92,12.15,SUV,5,FWD,257,42,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,top,petrol,1197,Automatic,15.92,15.66,SUV,5,FWD,257,42,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,base,diesel,1497,Manual,18.5,12.15,SUV,5,FWD,257,42,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,top,diesel,1497,Manual,18.5,16.65,SUV,5,FWD,257,42,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,base,diesel,1497,Automatic,18.5,14.59,SUV,5,FWD,257,42,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300,Mahidra,XUV300,top,diesel,1497,Automatic,18.5,17.44,SUV,5,FWD,257,42,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/26918/xuv300-exterior-right-front-three-quarter-148709.jpeg?isig=0&q=80
+MahidraXUV300Turbo,Mahidra,XUV300 Turbo,base,petrol,1197,Manual,18.2,10.62,SUV,5,FWD,257,42,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/131907/xuv300-turbosport-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80
+MahidraXUV300Turbo,Mahidra,XUV300 Turbo,top,petrol,1197,Manual,18.2,15.31,SUV,5,FWD,257,42,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/131907/xuv300-turbosport-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80
+MahidraBolero,Mahidra,Bolero,base,diesel,1493,Manual,17,11.48,SUV,7,RWD,690,60,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/131179/bolero-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MahidraBolero,Mahidra,Bolero,top,diesel,1493,Manual,17,12.95,SUV,7,RWD,690,60,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/131179/bolero-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MahidraBoleroNeo,Mahidra,Bolero Neo,base,diesel,1493,Manual,17,11.48,SUV,7,RWD,384,50,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/131181/bolero-neo-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MahidraBoleroNeo,Mahidra,Bolero Neo,top,diesel,1493,Manual,17,14.41,SUV,7,RWD,384,50,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/131181/bolero-neo-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MahidraXUV400,Mahidra,XUV400,base,EV,34.5,Automatic,375,16.46,SUV,5,FWD,378,0,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45278/xuv400-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MahidraXUV400,Mahidra,XUV400,top,EV,39.4,Automatic,456,18.76,SUV,5,FWD,378,0,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/45278/xuv400-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MahidraMarazzo,Mahidra,Marazzo,base,diesel,1497,Manual,17.3,17.02,MPV,8,FWD,190,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/49114/marazzo-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+MahidraMarazzo,Mahidra,Marazzo,top,diesel,1497,Manual,17.3,19.87,MPV,7,FWD,190,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/49114/marazzo-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,base,petrol,1462,Manual,21.12,13,SUV,5,FWD,373,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,top,petrol,1462,Manual,21.12,20.38,SUV,5,FWD,373,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,base,petrol,1462,Automatic,20.58,16.29,SUV,5,FWD,373,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,top,petrol,1462,Automatic,20.58,20.03,SUV,5,FWD,373,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,base,hybrid,1490,Automatic,27.83,19.37,SUV,5,FWD,373,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,top,hybrid,1490,Automatic,27.83,24.22,SUV,5,FWD,373,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,base,CNG,1462,Manual,26.6,14.58,SUV,5,FWD,373,45,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaUrbanCruiser,Toyota,Urban Cruiser,top,CNG,1462,Manual,26.6,16.58,SUV,5,FWD,373,45,4,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80
+ToyotaInnovaCrysta,Toyota,Innova Crysta,base,diesel,2393,Manual,12,23.79,MPV,7,RWD,300,65,5,3,https://imgd.aeplcdn.com/664x374/n/cw/ec/140809/innova-crysta-exterior-right-front-three-quarter-2.png?isig=0&q=80
+ToyotaInnovaCrysta,Toyota,Innova Crysta,top,diesel,2393,Manual,12,32.21,MPV,7,RWD,300,65,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/140809/innova-crysta-exterior-right-front-three-quarter-2.png?isig=0&q=80
+ToyotaInnovaCrysta,Toyota,Innova Crysta,base,diesel,2393,Manual,12,23.79,MPV,8,RWD,300,65,5,3,https://imgd.aeplcdn.com/664x374/n/cw/ec/140809/innova-crysta-exterior-right-front-three-quarter-2.png?isig=0&q=80
+ToyotaInnovaCrysta,Toyota,Innova Crysta,top,diesel,2393,Manual,12,30.27,MPV,8,RWD,300,65,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/140809/innova-crysta-exterior-right-front-three-quarter-2.png?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,base,petrol,1987,Automatic,16.13,23.14,MPV,7,FWD,300,52,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,top,petrol,1987,Automatic,16.13,24.29,MPV,7,FWD,300,52,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,base,petrol,1987,Automatic,16.13,23.2,MPV,8,FWD,300,52,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,top,petrol,1987,Automatic,16.13,24.35,MPV,8,FWD,300,52,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,base,hybrid,1987,Automatic,23.24,31,MPV,7,FWD,300,52,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,top,hybrid,1987,Automatic,23.24,37.02,MPV,7,FWD,300,52,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,base,hybrid,1987,Automatic,23.24,31.06,MPV,8,FWD,300,52,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaInnovaHycross,Toyota,Innova Hycross,top,hybrid,1987,Automatic,23.24,33.4,MPV,8,FWD,300,52,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80
+ToyotaRumion,Toyota,Rumion,base,petrol,1462,Manual,20.51,12.2,MPV,7,FWD,209,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/105799/rumion-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaRumion,Toyota,Rumion,base,petrol,1462,Automatic,20.3,13.92,MPV,7,FWD,209,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/105799/rumion-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaRumion,Toyota,Rumion,base,CNG,1462,Manual,26.11,12.15,MPV,7,FWD,209,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/105799/rumion-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaRumion,Toyota,Rumion,top,petrol,1462,Manual,20.51,14.37,MPV,7,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/105799/rumion-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaRumion,Toyota,Rumion,top,petrol,1462,Automatic,20.3,15.97,MPV,7,FWD,209,45,3,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/105799/rumion-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaGlanza,Toyota,Glanza,base,petrol,1197,Manual,22.35,7.86,HatchBack,5,FWD,318,37,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaGlanza,Toyota,Glanza,base,petrol,1197,Automatic,22.9,9.45,HatchBack,5,FWD,318,37,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaGlanza,Toyota,Glanza,base,CNG,1197,Manual,30.61,9.89,HatchBack,5,FWD,318,37,0,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaGlanza,Toyota,Glanza,top,petrol,1197,Manual,22.35,11.15,HatchBack,5,FWD,318,37,0,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaGlanza,Toyota,Glanza,top,petrol,1197,Automatic,22.9,11.4,HatchBack,5,FWD,318,37,0,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/112839/glanza-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+ToyotaFortuner,Toyota,Fortuner,top,petrol,2694,Manual,10,40.28,SUV,7,RWD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80
+ToyotaFortuner,Toyota,Fortuner,top,petrol,2694,Automatic,10.3,42.17,SUV,7,RWD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80
+ToyotaFortuner,Toyota,Fortuner,base,diesel,2755,Manual,14.6,43.97,SUV,7,RWD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80
+ToyotaFortuner,Toyota,Fortuner,top,diesel,2755,Manual,14.6,48.92,SUV,7,4WD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80
+ToyotaFortuner,Toyota,Fortuner,base,diesel,2755,Automatic,14.4,46.72,SUV,7,RWD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80
+ToyotaFortuner,Toyota,Fortuner,top,diesel,2755,Automatic,14.2,62.7,SUV,7,AWD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80
+ToyotaFortunerLegender,Toyota,Fortuner Legender,base,diesel,2755,Automatic,14.4,53.3,SUV,7,RWD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.png?isig=0&q=80
+ToyotaFortunerLegender,Toyota,Fortuner Legender,top,diesel,2755,Automatic,14.2,58.11,SUV,7,4WD,296,80,5,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.png?isig=0&q=80
+ToyotaLandCruiser,Toyota,Land Cruiser,top,diesel,3346,Automatic,11.13,254,SUV,5,AWD,620,110,5,10,https://imgd.aeplcdn.com/664x374/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+ToyotaHilux,Toyota,Hilux,base,diesel,2755,Manual,12.6,37.29,pickup,5,4WD,435,80,3,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/109265/hilux-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+ToyotaHilux,Toyota,Hilux,top,diesel,2755,Manual,12.6,45.44,pickup,5,4WD,435,80,3,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/109265/hilux-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+ToyotaHilux,Toyota,Hilux,top,diesel,2755,Automatic,12.6,46.35,pickup,5,4WD,435,80,3,7,https://imgd.aeplcdn.com/664x374/n/cw/ec/109265/hilux-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+ToyotaCamry,Toyota,Camry,top,hybrid,2487,Automatic,19.1,55.41,Sedan,5,FWD,587,50,5,9,https://imgd.aeplcdn.com/664x374/n/cw/ec/110233/camry-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+Toyotavellfire,Toyota,vellfire,base,hybrid,2487,Automatic,19.28,143,MPV,7,4WD,148,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/154483/vellfire-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+Toyotavellfire,Toyota,vellfire,top,hybrid,2487,Automatic,19.28,155,MPV,7,4WD,148,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/154483/vellfire-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,base,petrol,1197,Manual,17,9.13,SUV,5,FWD,385,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,top,petrol,1197,Manual,17,11.29,SUV,5,FWD,385,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,base,petrol,998,Automatic,17,14.25,SUV,5,FWD,385,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,top,petrol,998,Automatic,17,17,SUV,5,FWD,385,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,base,petrol,998,Clutchless,17,12.19,SUV,5,FWD,385,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,top,petrol,998,Clutchless,17,15.51,SUV,5,FWD,385,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,base,diesel,1493,Manual,20.7,11.36,SUV,5,FWD,385,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,top,diesel,1493,Manual,20.7,16.2,SUV,5,FWD,385,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,base,diesel,1493,Automatic,20.7,15.38,SUV,5,FWD,385,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,top,diesel,1493,Automatic,20.7,18.57,SUV,5,FWD,385,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,base,diesel,1493,Clutchless,20.7,14.93,SUV,5,FWD,385,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSonet,Kia,Sonet,top,diesel,1493,Clutchless,20.7,17.02,SUV,5,FWD,385,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/141383/sonet-facelift-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,base,petrol,1497,Manual,17,12.73,SUV,5,FWD,433,50,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,top,petrol,1497,Manual,17,17.67,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,base,petrol,1482,Automatic,17.9,22.28,SUV,5,FWD,433,50,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,top,petrol,1482,Automatic,17.9,24.35,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,base,petrol,1482,Clutchless,17.7,17.43,SUV,5,FWD,433,50,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,top,petrol,1482,Clutchless,17.7,21.48,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,base,diesel,1493,Manual,20.7,14.23,SUV,5,FWD,433,50,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,top,diesel,1493,Manual,20.7,21.59,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,base,diesel,1493,Automatic,19.1,21.5,SUV,5,FWD,433,50,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,top,diesel,1493,Automatic,19.1,24.76,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,base,diesel,1493,Clutchless,20.7,14.23,SUV,5,FWD,433,50,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+KiaSeltos,Kia,Seltos,top,diesel,1493,Clutchless,20.7,21.285,SUV,5,FWD,433,50,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,base,petrol,1497,Manual,17,12.21,MPV,7,FWD,216,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,top,petrol,1497,Manual,17,13.7,MPV,6,FWD,216,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,base,petrol,1482,Automatic,17.9,18.44,MPV,7,FWD,216,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,top,petrol,1482,Automatic,17.9,21.99,MPV,6,FWD,216,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,base,petrol,1482,Clutchless,17.7,13.99,MPV,7,FWD,216,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,top,petrol,1482,Clutchless,17.7,20.56,MPV,6,FWD,216,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,base,diesel,1493,Automatic,19.1,21.09,MPV,7,FWD,216,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,top,diesel,1493,Automatic,19.1,22.95,MPV,6,FWD,216,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,base,diesel,1493,Clutchless,20.7,14.99,MPV,7,FWD,216,45,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+Kiacarens,Kia,carens,top,diesel,1493,Clutchless,20.7,21.44,MPV,6,FWD,216,45,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80
+KiaEV6,Kia,EV6,base,EV,77.4,Automatic,708,64.39,SUV,5,RWD,572,0,5,8,https://imgd.aeplcdn.com/664x374/n/cw/ec/114971/ev6-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+KiaEV6,Kia,EV6,top,EV,77.4,Automatic,708,69.62,SUV,5,AWD,572,0,5,8,https://imgd.aeplcdn.com/664x374/n/cw/ec/114971/ev6-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MGHector,MG,Hector,base,petrol,1451,Manual,13.8,17.37,SUV,5,FWD,587,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MGHector,MG,Hector,top,petrol,1451,Manual,13.8,23.06,SUV,5,FWD,587,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MGHector,MG,Hector,base,petrol,1451,Automatic,12.34,19.76,SUV,5,FWD,587,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MGHector,MG,Hector,top,petrol,1451,Automatic,12.34,26.54,SUV,5,FWD,587,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MGHector,MG,Hector,base,diesel,1956,Manual,15.58,21.12,SUV,5,FWD,587,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MGHector,MG,Hector,top,diesel,1956,Manual,15.58,26.9,SUV,5,FWD,587,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,base,petrol,1451,Manual,13.8,24.47,SUV,6,FWD,155,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,top,petrol,1451,Manual,13.8,24.7,SUV,6,FWD,155,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,base,petrol,1451,Automatic,12.34,26.04,SUV,6,FWD,155,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,top,petrol,1451,Automatic,12.34,27.41,SUV,6,FWD,155,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,base,diesel,1956,Manual,15.58,20.3,SUV,6,FWD,155,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,top,diesel,1956,Manual,15.58,25.81,SUV,6,FWD,155,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,base,petrol,1451,Manual,13.8,20.9,SUV,7,FWD,155,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,top,petrol,1451,Manual,13.8,24.7,SUV,7,FWD,155,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,base,petrol,1451,Automatic,12.34,26.04,SUV,7,FWD,155,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,top,petrol,1451,Automatic,12.34,27.41,SUV,7,FWD,155,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,base,diesel,1956,Manual,15.58,20.3,SUV,7,FWD,155,60,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGHectorPlus,MG,Hector Plus,top,diesel,1956,Manual,15.58,27.62,SUV,7,FWD,155,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGAstor,MG,Astor,base,petrol,1498,Manual,14.34,11.38,SUV,5,FWD,488,48,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MGAstor,MG,Astor,top,petrol,1498,Manual,14.34,16.83,SUV,5,FWD,488,48,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MGAstor,MG,Astor,base,petrol,1498,Automatic,15.43,16.26,SUV,5,FWD,488,48,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MGAstor,MG,Astor,top,petrol,1498,Automatic,15.43,18.35,SUV,5,FWD,488,48,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/51940/astor-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+MGGloster,MG,Gloster,base,diesel,1996,Automatic,13.92,47.67,SUV,6,RWD,343,75,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/129689/gloster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGGloster,MG,Gloster,top,diesel,1996,Automatic,13.92,52.5,SUV,6,RWD,343,75,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/129689/gloster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGGloster,MG,Gloster,base,diesel,1996,Automatic,13.92,45.86,SUV,7,RWD,343,75,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/129689/gloster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGGloster,MG,Gloster,top,diesel,1996,Automatic,13.92,52.5,SUV,7,RWD,343,75,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/129689/gloster-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+MGCometEV,MG,Comet EV,base,EV,17.3,Automatic,230,7.38,HatchBack,4,RWD,350,0,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/125193/comet-ev-exterior-right-side-view-23.jpeg?isig=0&q=80
+MGCometEV,MG,Comet EV,top,EV,17.3,Automatic,230,9.72,HatchBack,4,RWD,350,0,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/125193/comet-ev-exterior-right-side-view-23.jpeg?isig=0&q=80
+MGZSEV,MG,ZS EV,base,EV,50.3,Automatic,461,20.11,SUV,5,FWD,448,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/110437/zs-ev-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80
+MGZSEV,MG,ZS EV,top,EV,50.3,Automatic,461,26.49,SUV,5,FWD,448,0,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/110437/zs-ev-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80
+HondaElevate,Honda,Elevate,base,petrol,1498,Manual,15.3,13.51,SUV,5,FWD,458,40,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80
+HondaElevate,Honda,Elevate,top,petrol,1498,Manual,15.3,17.58,SUV,5,FWD,458,40,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80
+HondaElevate,Honda,Elevate,base,petrol,1498,Automatic,16.92,15.6,SUV,5,FWD,458,40,3,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80
+HondaElevate,Honda,Elevate,top,petrol,1498,Automatic,16.92,19.07,SUV,5,FWD,458,40,3,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80
+Hondacity,Honda,city,base,petrol,1498,Manual,17.8,13.66,Sedan,5,FWD,506,40,5,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80
+Hondacity,Honda,city,top,petrol,1498,Manual,17.8,17.36,Sedan,5,FWD,506,40,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80
+Hondacity,Honda,city,base,petrol,1498,Automatic,18.4,16.1,Sedan,5,FWD,506,40,5,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80
+Hondacity,Honda,city,top,petrol,1498,Automatic,18.4,18.83,Sedan,5,FWD,506,40,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80
+HondaAmaze,Honda,Amaze,base,petrol,1199,Manual,18.6,13.66,Sedan,5,FWD,420,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HondaAmaze,Honda,Amaze,top,petrol,1199,Manual,18.6,17.36,Sedan,5,FWD,420,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HondaAmaze,Honda,Amaze,base,petrol,1199,Automatic,18.3,16.1,Sedan,5,FWD,420,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HondaAmaze,Honda,Amaze,top,petrol,1199,Automatic,18.3,18.83,Sedan,5,FWD,420,35,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45951/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+HondaCityHybrid,Honda,City Hybrid,base,hybrid,1498,Automatic,27.1,21.92,Sedan,5,FWD,410,40,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/143275/city-hybrid-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+HondaCityHybrid,Honda,City Hybrid,top,hybrid,1498,Automatic,27.1,24.46,Sedan,5,FWD,410,40,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/143275/city-hybrid-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,base,petrol,999,Manual,20.32,13.39,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,top,petrol,999,Manual,20.32,18.12,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,base,petrol,999,Automatic,18.73,17.05,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,top,petrol,999,Automatic,18.73,19.6,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,base,petrol,1498,Manual,19,17.73,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,top,petrol,1498,Manual,19,20.58,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,base,petrol,1498,Automatic,19.36,18.94,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaSlavia,Skoda ,Slavia,top,petrol,1498,Automatic,19.36,22.2,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,base,petrol,999,Manual,19.76,13.79,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,top,petrol,999,Manual,19.76,20.01,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,base,petrol,999,Automatic,18.09,17.95,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,top,petrol,999,Automatic,18.09,21.5,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,base,petrol,1498,Manual,18.6,18.6,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,top,petrol,1498,Manual,18.6,22.15,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,base,petrol,1498,Automatic,18.86,19.58,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKushaq,Skoda ,Kushaq,top,petrol,1498,Automatic,19.36,24.58,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80
+SkodaKodiaq,Skoda ,Kodiaq,base,petrol,1984,Automatic,13.3,46.31,SUV,7,4WD,270,58,5,9,https://imgd.aeplcdn.com/664x374/n/cw/ec/49051/kodiaq-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+SkodaKodiaq,Skoda ,Kodiaq,top,petrol,1984,Automatic,13.3,50.45,SUV,7,4WD,270,58,5,9,https://imgd.aeplcdn.com/664x374/n/cw/ec/49051/kodiaq-exterior-right-front-three-quarter-3.jpeg?isig=0&q=81
+VolkswagenVirtus,Volkswagen,Virtus,base,petrol,999,Manual,20.8,13.41,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenVirtus,Volkswagen,Virtus,top,petrol,999,Manual,20.8,18.31,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenVirtus,Volkswagen,Virtus,base,petrol,999,Automatic,18.45,17.21,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenVirtus,Volkswagen,Virtus,top,petrol,999,Automatic,18.45,19.74,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenVirtus,Volkswagen,Virtus,base,petrol,1498,Manual,18.88,20.08,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenVirtus,Volkswagen,Virtus,top,petrol,1498,Manual,18.88,20.74,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenVirtus,Volkswagen,Virtus,base,petrol,1498,Automatic,19.62,19.33,Sedan,5,FWD,521,45,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenVirtus,Volkswagen,Virtus,top,petrol,1498,Automatic,19.62,22.52,Sedan,5,FWD,521,45,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,base,petrol,999,Manual,19.87,13.57,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,top,petrol,999,Manual,19.87,19.12,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,base,petrol,999,Automatic,18.15,17.89,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,top,petrol,999,Automatic,18.15,20.91,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,base,petrol,1498,Manual,18.6,19.5,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,top,petrol,1498,Manual,18.6,21.82,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,base,petrol,1498,Automatic,19.06,20.18,SUV,5,FWD,385,50,5,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTaigun,Volkswagen,Taigun,top,petrol,1498,Automatic,19.06,23.19,SUV,5,FWD,385,50,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+VolkswagenTiguan,Volkswagen,Tiguan,top,petrol,1984,Automatic,12.65,40.94,SUV,5,4WD,615,60,5,6,https://imgd.aeplcdn.com/664x374/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80
+RenaultKwid,Renault,Kwid,base,petrol,999,Manual,20.7,5.38,HatchBack,5,FWD,279,28,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141125/kwid-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+RenaultKwid,Renault,Kwid,top,petrol,999,Manual,20.7,6.84,HatchBack,5,FWD,279,28,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141125/kwid-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+RenaultKwid,Renault,Kwid,base,petrol,999,Automatic,22,6.32,HatchBack,5,FWD,279,28,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141125/kwid-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+RenaultKwid,Renault,Kwid,top,petrol,999,Automatic,22,7.34,HatchBack,5,FWD,279,28,1,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141125/kwid-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80
+RenaultTriber,Renault,Triber,base,petrol,999,Manual,19,6.84,MPV,7,FWD,84,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141119/triber-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+RenaultTriber,Renault,Triber,top,petrol,999,Manual,19,9.61,MPV,7,FWD,84,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141119/triber-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+RenaultTriber,Renault,Triber,base,petrol,999,Automatic,18.2,9.24,MPV,7,FWD,84,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141119/triber-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+RenaultTriber,Renault,Triber,top,petrol,999,Automatic,18.2,10.19,MPV,7,FWD,84,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141119/triber-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80
+RenaultKiger,Renault,Kiger,base,petrol,999,Manual,19.1,6.84,SUV,5,FWD,405,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141857/kiger-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+RenaultKiger,Renault,Kiger,top,petrol,999,Manual,19.1,11.89,SUV,5,FWD,405,40,4,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/141857/kiger-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+RenaultKiger,Renault,Kiger,base,petrol,999,Automatic,19,8.07,SUV,5,FWD,405,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/141857/kiger-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+RenaultKiger,Renault,Kiger,top,petrol,999,Automatic,19,10.81,SUV,5,FWD,405,40,4,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/141857/kiger-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80
+NissanMagnite,Nissan,Magnite,base,petrol,999,Manual,19.35,7.43,SUV,5,FWD,405,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45795/magnite-exterior-right-front-three-quarter-10.jpeg?isig=0&q=80
+NissanMagnite,Nissan,Magnite,top,petrol,999,Manual,19.35,9.84,SUV,5,FWD,405,40,4,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/45795/magnite-exterior-right-front-three-quarter-10.jpeg?isig=0&q=80
+NissanMagnite,Nissan,Magnite,base,petrol,999,Automatic,19,8.43,SUV,5,FWD,405,40,4,2,https://imgd.aeplcdn.com/664x374/n/cw/ec/45795/magnite-exterior-right-front-three-quarter-10.jpeg?isig=0&q=80
+NissanMagnite,Nissan,Magnite,top,petrol,999,Automatic,19,9.82,SUV,5,FWD,405,40,4,4,https://imgd.aeplcdn.com/664x374/n/cw/ec/45795/magnite-exterior-right-front-three-quarter-10.jpeg?isig=0&q=80

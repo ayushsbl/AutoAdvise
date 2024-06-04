@@ -1,0 +1,152 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Untree.co">
+  <link rel="shortcut icon" href="{% static 'images/favicon.png' %}">
+		<link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+		<link href="{% static 'css/tiny-slider.css' %}" rel="stylesheet">
+		<link href="{% static 'css/style.css' %}" rel="stylesheet">
+	<title>AutoAdvise | {{model}}</title>
+	</head>
+
+	<body>
+
+		<!-- Start Header/Navigation -->
+		<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Furni navigation bar">
+
+			<div class="container">
+				<a class="navbar-brand" href="{% url 'home' %}">AutoAdvise<span>.</span></a>
+
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarsFurni">
+					<ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
+						<li><a class="nav-link" href="{% url 'home' %}">Home</a></li>
+						<li><a class="nav-link" href="{% url 'content' 0 %}">Search</a></li>
+						<li><a class="nav-link" href="{% url 'hybrid1' %}">AI</a></li>
+						<li><a class="nav-link" href="{% url 'support' %}">Support</a></li>
+					</ul>
+
+				</div>
+			</div>
+				
+		</nav>
+		<!-- End Header/Navigation -->
+
+		<!-- Profile Section -->
+                <div class="wraper">
+                    <div class="row1">
+                        <div class="col1"><img src="{{ img_link }}" alt="car image" class="img2" align="left" border="1" width="450" height="300" style="margin-left: 100px; margin-right: 100px; border-radius: 20px;"></div>
+                        <div class="col2">
+							<p>
+								<h1 style="margin-bottom: 20px;  color: #436850;">{{ brand }} {{ model }}</h1>
+								<h2>{{ lowest_price }} - {{ highest_price }}*</h2>
+							</p>
+						</div>
+                    </div>
+					<p><br></p>
+                    <div class="row2">
+                        <table>
+							<tr>
+								<th>FUEL</th>
+								<th>VARIENT</th>
+								<th>ENGINE</th>
+								<th>Transmission</th>
+								<th>AIRBAGS</th>
+								<th>MILEAGE</th>
+								<th>PRICE</th>
+							</tr>
+							{% for i in car_detail %}
+							<tr>
+								<td>{{ i.FUEL }}</td>
+								<td>{{i.VARIANT}}</td>
+								<td>{{i.CC}}cc</td>
+								<td>{{i.TRANSMISSION}}</td>
+								<td>{{i.Airbag}}</td>
+								<td>{{i.MILEAGE}} kmpl</td>
+								<td>{{i.PRICE}} lac</td>
+							</tr>
+							{% endfor %}
+							<tr>
+								<td>Petrol</td>
+								<td>Top</td>
+								<td>1998</td>
+								<td>Trans</td>
+								<td>6</td>
+								<td>17.3 kmpl</td>
+								<td>21.6 lac</td>
+							</tr>
+							<!-- <tr>
+								<td>Petrol</td>
+								<td>Top</td>
+								<td>1998</td>
+								<td>Trans</td>
+								<td>6</td>
+								<td>17.3 kmpl</td>
+								<td>21.6 lac</td>
+							</tr>
+							<tr>
+								<td>Petrol</td>
+								<td>Top</td>
+								<td>1998</td>
+								<td>Trans</td>
+								<td>6</td>
+								<td>17.3 kmpl</td>
+								<td>21.6 lac</td>
+							</tr> -->
+                        </table>
+                    </div>
+                    <div class="row3">
+                        <div class="row_head">SPECIFICATIONS</div>
+                        <table style="margin: 5px 5px; padding: auto; border: #436850 solid 1px;" >
+							{% for i in additional_info %}
+							<tr>
+								<th>Body Type</th>
+								<td>{{ i.TYPE }}</td>
+							</tr>
+							<tr>
+								<th>Wheel Drive</th>
+								<td>{{ i.WHEEL_DRIVE }}</td>
+							</tr>
+							<tr>
+								<th>Boot Space</th>
+								<td>{{ i.BOOT_SPACE }} Litres</td>
+							</tr>
+							<tr>
+								<th>Fuel Tank</th>
+								<td>{{ i.FUEL_TANK }} Litres</td>
+							</tr>
+							<tr>
+								<th>Seating Capacity</th>
+								<td>{{ i.SEAT }} Seater</td>
+							</tr> 
+							<tr>
+								<th>NCAP Rating</th>
+								<td>{{ i.NCAP_RATING }} star</td>
+							</tr> 
+							{% endfor %}
+                        </table>
+                    </div>
+                </div>
+        <!-- End Profile Section -->
+
+		<!-- Start Footer Section -->
+		<footer class="footer-section">
+			<div class="container relative">
+				<div class="row g-5 mb-5">
+					<div class="">
+						<div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">AutoAdvise<span>.</span></a></div>
+						<td class="mb-4">To address the presented challenge, our objective is to develop a sophisticated recommendation model. By leveraging advanced machine learning techniques, we aim to provide tailored suggestions, enhancing user experience and engagement. Our focus is on creating a robust and efficient solution to meet the unique requirements of the problem at hand.</td>
+                    </div>
+			</div>
+		</footer>
+		<!-- End Footer Section -->	
+	</body>
+
+</html>

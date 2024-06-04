@@ -1,0 +1,167 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="author" content="Untree.co">
+  <link rel="shortcut icon" href="images/favicon.png">
+		<!-- Bootstrap CSS -->
+		<link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+		<link href="{% static 'css/tiny-slider.css' %}" rel="stylesheet">
+		<link href="{% static 'css/style.css' %}" rel="stylesheet">
+		<link rel="stylesheet" href="{% static 'css/swiper-bundle.min.css' %}">
+		<title>AutoAdvise | Support</title>
+	</head>
+
+	<body>
+
+		<!-- Start Header/Navigation -->
+		<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Furni navigation bar">
+
+			<div class="container">
+				<a class="navbar-brand" href="{% url 'home' %}">AutoAdvise<span>.</span></a>
+
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarsFurni">
+					<ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
+						<li><a class="nav-link" href="{% url 'home' %}">Home</a></li>
+						<!-- <li><a class="nav-link" href="#">Collab</a></li> -->
+						<li>
+							<a class="nav-link" href="{% url 'content' 0 %}">Search</a>
+						</li>
+						<li><a class="nav-link" href="{% url 'hybrid1' %}">AI</a></li>
+						<li class="nav-item active"><a class="nav-link" href="{% url 'support' %}">Support</a></li>
+					</ul>
+
+				</div>
+			</div>
+				
+		</nav>
+		<!-- End Header/Navigation -->
+
+		<!-- Start Hero Section -->
+			<div class="hero">
+				<div class="container">
+					<div class="row justify-content-between">
+						<div class="col-lg-5">
+							<div class="card">
+								<form action="{% url 'support' %}" method="POST" style="background-color: #3b5d50;">
+									{% csrf_token %}
+									<label class="input-allign-label">Brand</label><br>
+									<select id="brand" name="brand" class="input-allign">
+										<option value="Any">Any</option>
+										<option value="Tata">TATA</option>
+										<option value="Mahindra">Mahindra</option>
+										<!-- <option value="Skoda">Skoda</option> -->
+										<option value="Hyundai">Hyundai</option>
+										<!-- <option value="Maruti Suzuki">Maruti Suzuki</option>
+										<option value="Toyota">Toyota</option>
+										<option value="Kia">Kia</option>
+										<option value="MG">MG</option>
+										<option value="Honda">Honda</option>
+										<option value="Volkswagen">Volkswagen</option>
+										<option value="Renault">Renault</option>
+										<option value="Nissan">Nissan</option> -->
+									</select>
+									<br>
+									<label class="input-allign-label">Model</label><br>
+									<select id="model" name="model" class="input-allign">
+										<option value="Any">Any</option>
+										<option value="Fronx">Fronx</option>
+										<option value="Harrier">Harrier</option>
+										<option value="Nexon">Nexon</option>
+										<option value="Punch">Punch</option>
+										<option value="Thar">Thar</option>
+										<option value="ScorpioN">Scorpio N</option>
+										<option value="Tiago">Tiago</option>
+										<option value="TiagoNRG">Tiago NRG</option>
+										<option value="Tigor">Tigor</option>
+										<option value="Safari">Safari</option>
+										<option value="XUV700">XUV700</option>
+										<option value="XUV300">XUV300</option>
+										<option value="XUV400">XUV400</option>
+										<option value="Marazzo">Marazzo</option>
+										<option value="Bolero">Bolero</option>
+										<option value="BoleroNeo">Bolero Neo</option>
+										<option value="Creta">Creta</option>
+										<option value="Exter">Exter</option>
+										<option value="Venue">Venue</option>
+										<option value="VenueN">Venue N</option>
+										<option value="Verna">Verna</option>
+										<option value="i20">i20</option>
+										<option value="i20NLine">i20 N Line</option>
+										<option value="Grandi10">Grand i10</option>
+										<option value="Aura">Aura</option>
+										<option value="Alcazar">Alcazar</option>
+										<option value="Tucson">Tucson</option>
+										<option value="ioniq">ioniq</option>
+										<option value="Kona">Kona</option>
+									</select>
+									<br>
+									<label class="input-allign-label">Fuel Type</label><br>
+									<select id="fuel" name="fuel" class="input-allign">
+										<option value="Any">Any</option>
+										<option value="petrol">Petrol</option>
+										<option value="diesel">Diesel</option>
+										<option value="CNG">CNG</option>
+										<option value="EV">EV</option>
+										<option value="hybrid">Hybrid(Petrol + EV)</option>
+									</select>
+									<br>
+									<label class="input-allign-label">Monthly Running</label><br>
+									<input type="text" id="running" name="running" placeholder="KM upto*"  class="input-allign">
+									<br>
+									<br>
+									<input type="submit" value="Search" class="btn btn-secondary-form">
+								  </form>
+							  </div>
+						</div>
+							<div class="col-lg-7">
+								<div class="hero-img-wrap">
+									<div style="background-color: whitesmoke; width: 500px; height: 300px; border-radius: 20px; padding: 20px;">
+										<h2 style="color: black;">Total Cost Of the car:</h2>
+										<br>
+										{% if d %} <p style=" color: black; font-size: x-large;">{{ d }} lac*</p> {% endif %}
+										<br>
+										<p style=" color: black; font-size: large;">{ Total Cost = Price + fuel Cost }</p>
+									</div>
+								</div>
+							</div>
+					</div>
+				</div>
+			</div>
+		<!-- End Hero Section -->
+
+		<!-- Start Testimonial Slider -->
+		
+		<!-- End Testimonial Slider -->
+		
+
+		<!-- Start Footer Section -->
+		<footer class="footer-section">
+			<div class="container relative">
+				
+				<div class="row g-5 mb-5">
+					<div class="">
+						<div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">AutoAdvise<span>.</span></a></div>
+						<p class="mb-4">To address the presented challenge, our objective is to develop a sophisticated recommendation model. By leveraging advanced machine learning techniques, we aim to provide tailored suggestions, enhancing user experience and engagement. Our focus is on creating a robust and efficient solution to meet the unique requirements of the problem at hand.</p>
+
+					</div>
+			</div>
+		</footer>
+		<!-- End Footer Section -->	
+		<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+		<script src="{% static 'js/tiny-slider.js' %}"></script>
+		<script src="{% static 'js/custom.js' %}"></script>
+		<script src="{% static 'js/script.js' %}"></script>
+		<script src="{% static 'js/swiper-bundle.min.js' %}"></script>
+		
+		
+	</body>
+	
+</html>
